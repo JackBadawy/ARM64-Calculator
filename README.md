@@ -4,7 +4,7 @@
 WIP - this will be a basic calculator with options to add, subtract, multiply and divide. this project shall serve as a prelude to a basic crud API i will make
 
 ## TODO
-- Handle conversion from num to ASCII 
+- ~~Handle conversion from num to ASCII~~ 
 - Handle user operator selection
 - Handle user num input
 - Handle multi digit conversion to ASCII
